@@ -2,7 +2,7 @@
 
 Welcome to my code kingdom!
 
-- [`joshvalentino.com`](https://joshvalentino.com.com/)
+- [`joshvalentino.com`](https://joshvalentino.com/)
 
 - [`linkedin`](https://www.linkedin.com/in/valentino-josh/)
 
