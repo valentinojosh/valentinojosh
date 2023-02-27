@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Josh
+
+Welcome to my code kingdom!
+
+- [`joshvalentino.com`](https://joshvalentino.com.com/)
+
+- [`linkedin`](https://www.linkedin.com/in/valentino-josh/)
 
 <!--
 **valentinojosh/valentinojosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
