@@ -1,6 +1,6 @@
 ### Hi, I'm Josh
 
-Welcome to my code kingdom!
+Welcome to my code haven!
 
 - [`joshvalentino.com`](https://joshvalentino.com/)
 
