@@ -1,6 +1,6 @@
 ### Hi, I'm Josh
 
-Welcome to my code haven!
+dedicated swe - excited to have you here!
 
 - [`joshvalentino.com`](https://joshvalentino.com/)
 
