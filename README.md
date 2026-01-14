@@ -1,6 +1,6 @@
-### Hi, I'm Josh
+<!--### Hi, I'm Josh
 
-dedicated swe - excited to have you here!
+dedicated swe - excited to have you here!-->
 
 - [`joshvalentino.com`](https://joshvalentino.com/)
 
